@@ -58,4 +58,7 @@ footer {
   h1{
     font-size: 450%;
   }
+  .dice{
+    display: block;
+  }
 }
