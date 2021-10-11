@@ -61,4 +61,7 @@ footer {
   .dice{
     display: block;
   }
+  img {
+    width: 50%;
+  }
 }
